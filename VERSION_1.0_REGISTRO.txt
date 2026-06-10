@@ -1,0 +1,16 @@
+Título: f()
+
+Autor: Enric Bono Stradmann
+
+Versión: 1.0
+
+Fecha de congelación: [fecha de hoy]
+
+Archivo principal:
+ModeloF_V1.pdf
+
+SHA256:
+b084022b276a26d59c6884fcb30abbd276e85bfafcc415b6a602921d5d9c5ce3
+
+Notas:
+Primera versión pública completa del manuscrito.
