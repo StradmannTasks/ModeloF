@@ -7,3 +7,5 @@ Enric Bono Stradmann
 
 Version:
 1.0
+
+DOI: 10.5281/zenodo.20634473
